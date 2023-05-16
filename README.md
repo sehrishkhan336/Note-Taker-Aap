@@ -25,11 +25,12 @@ If you want to create a new note, click on the Write icon in the navigation at t
 If you want to delete the existing note, click the delete icon. 
 
 ## SCREENSHOT OF THE WEBSITE:
+![Screenshot](./images/Screenshot%20(207).png "Alt Text")
+## Deployed Application Link:
+https://floating-wave-88201.herokuapp.com/
+## Access Deployed GitHub Repo:
+https://github.com/sehrishkhan336/Note-Taker-Aap/tree/master
 
-Deployed Application Link:
-deployed Link of Application:
-Access Deployed GitHub Repo:
-Access Deployed Github repo: 
 
 ## TECHNOLOGY:
 The note-taking application is built using the following technologies:
